@@ -1,6 +1,6 @@
 ### Hi, I'm Angel a.k.a baezor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a web developer, entrepreneur and soon-to-be security engineer. <br />
+Developer, entrepreneur and soon-to-be security engineer. 🏴‍☠️ <br />
 
 <br />
 
