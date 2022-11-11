@@ -15,6 +15,6 @@ Developer, entrepreneur and soon-to-be security engineer. 🏴‍☠️ <br />
 
 <br />
 
-- ⌨️ &nbsp;	Coming next: Building my blog with Next.js
+- ⌨️ &nbsp;	Coming next: Building my website on Cloudflare workers.
 - 💬 &nbsp;	Ask me about anything, I am happy to help
 - 💌 &nbsp;	How to reach me: [a@baezor.io](mailto:a@baezor.io)
