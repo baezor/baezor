@@ -1,6 +1,6 @@
-### Hi, I'm Angel a.k.a baezor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Angel Romero Baez a.k.a baezor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Developer, entrepreneur and soon-to-be security engineer. 🏴‍☠️ <br />
+Developer, entrepreneur and life-long learner. <br />
 
 <br />
 
@@ -15,6 +15,5 @@ Developer, entrepreneur and soon-to-be security engineer. 🏴‍☠️ <br />
 
 <br />
 
-- ⌨️ &nbsp;	Coming next: Building my website on Cloudflare workers.
-- 💬 &nbsp;	Ask me about anything, I am happy to help
+- 💬 &nbsp;	Ask me about anything.
 - 💌 &nbsp;	How to reach me: [a@baezor.io](mailto:a@baezor.io)
