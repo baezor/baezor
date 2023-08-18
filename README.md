@@ -1,6 +1,6 @@
-### Hi, I'm Angel Baez (baezor) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Angel Baez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a developer, entrepreneur, and life-long learner. <br />
+Entrepreneur, and life-long learner. <br />
 
 <br />
 
