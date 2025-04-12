@@ -1,7 +1,7 @@
-# Hi, I'm Angel Romero Baez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-> Programmer and social entrepreneur
+# Hi, I'm Angel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+> developer and social entrepreneur
 
-I currently work as a WD at [HUSL Digital](https://husldigital.com/) an incredible digital agency where we launch 🚀 high-impacting solutions for our clients. I'm also co-founder of [Prepa IN](https://prepain.mx/), a digital platform that helps students complete their high school education in less than four months.
+I currently work as a WD at [HUSL Digital](https://husldigital.com/), an incredible digital agency where we launch 🚀 high-impact solutions for our clients. I'm also co-founder of [Prepa IN](https://prepain.mx/), a digital platform that helps students complete their high school education in less than four months.
 <br />
 
 #### Languages and tools I work with:
