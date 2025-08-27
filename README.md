@@ -1,7 +1,7 @@
-# Hi, baezor here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-> developer and social entrepreneur
+# Hi, Angel here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+> Programmer and entrepreneur
 
-I currently work as a WD at [HUSL Digital](https://husldigital.com/), an incredible digital agency where we launch 🚀 high-impact solutions for our clients. I'm also co-founder of [Prepa IN](https://prepain.mx/), a digital platform that helps students complete their high school education in less than four months.
+I work at [HUSL Digital](https://husldigital.com/), where we build and launch high-impact solutions. In my free time I run my own company, [Prepa IN](https://prepain.mx/), a digital platform that helps students complete their high school education in less than four months.
 <br />
 
 #### Languages and tools I work with:
@@ -16,5 +16,5 @@ I currently work as a WD at [HUSL Digital](https://husldigital.com/), an incredi
 
 #### Contact me:
 
-- 💌 &nbsp;	How to reach me: [a@baezor.io](mailto:a@baezor.io)
-- 🧭 &nbsp;	My website: [baezor.io](https://baezor.io/)
+- 💌 &nbsp;	How to reach me: [angel@romerobaez.com](mailto:angel@romerobaez.com)
+- 🧭 &nbsp;	My website: [angelromerobaez.com](https://angelromerobaez.com/)
