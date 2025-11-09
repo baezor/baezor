@@ -1,6 +1,6 @@
-# Hi, I'm Angel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Angel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m a programmer and entrepreneur based in Cancun, Mexico. I work at [HUSL Digital](https://husldigital.com/), where we build and launch high-impact solutions. In my free time, I run my own company, [Prepa IN](https://prepain.mx/), a digital platform empowering students to finish high school in under four months.
+I’m a software engineer and entrepreneur based in Cancun. I work at [HUSL Digital](https://husldigital.com/), where we build and launch high-impact solutions, and run my own company, [Prepa IN](https://prepain.mx/), a digital platform empowering students to finish high school in under four months.
 <br />
 
 #### Let's connect:
