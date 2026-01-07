@@ -5,7 +5,7 @@ I’m a software engineer and entrepreneur based in Cancun. I work at [HUSL Digi
 
 #### Let's connect:
 
-- 💌 &nbsp;	How to reach me: [angel@romerobaez.com](mailto:angel@romerobaez.com)
+- 💌 &nbsp;	How to reach me: [angel-baez-com/contact](https://angel-baez.com/contact/)
 - 🧭 &nbsp;	My website: [angel-baez.com](https://angel-baez.com/)
 
 #### Languages and tools I work with:
